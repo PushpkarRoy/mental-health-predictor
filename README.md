@@ -23,7 +23,7 @@
 **Mental Health Signal** predicts a student's mental wellness score (0–10) from their digital habits — screen time, sleep, stress, study load, and platform usage. It's built end-to-end: exploratory analysis on 5,000 student records, a leak-free preprocessing + modeling pipeline, a tuned Random Forest regressor, a FastAPI backend, and a clean, animated frontend that turns a prediction into a readable "signal."
 
 > ⚠️ **Not a clinical tool.** This is a data-driven reflection of habits, not a diagnosis. If you're struggling, please talk to someone you trust or a mental health professional.
-
+   
 <br>   
 
 ## ✨ Features
