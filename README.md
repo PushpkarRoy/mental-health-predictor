@@ -15,7 +15,7 @@
 **[🚀 Live App](https://mental-health-predictor-1-fw9u.onrender.com)** &nbsp;•&nbsp; **[📘 API Docs](https://mental-health-predictor-ow9r.onrender.com/docs)** &nbsp;•&nbsp; **[🐛 Report a Bug](../../issues)**
 
 </div>
-
+    
 <br>         
     
 ## 📖 Overview      
