@@ -4,7 +4,7 @@
 
 ### Predicting student mental wellness from social media & lifestyle habits
 
-*A full-stack machine learning app — from raw data to a live, deployed prediction API and UI.*
+*A full-stack machine learning app — from raw data to a live, deployed prediction API and UI.*  
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
