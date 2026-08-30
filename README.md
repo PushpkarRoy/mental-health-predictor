@@ -27,7 +27,7 @@
 <br>   
 
 ## ✨ Features
-
+    
 | | |
 |---|---|
 | 🎯 **Real-time predictions** | Submit your habits, get an instant 0–10 wellness score |
