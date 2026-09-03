@@ -25,7 +25,7 @@
 > ⚠️ **Not a clinical tool.** This is a data-driven reflection of habits, not a diagnosis. If you're struggling, please talk to someone you trust or a mental health professional.
    
 <br>   
-
+   
 ## ✨ Features
     
 | | |
